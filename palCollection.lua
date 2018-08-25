@@ -8,8 +8,8 @@
 local palCollection = {
   [ "name" ] = "palCollection",
   [ "author" ] = "HydroNitrogen",
-  [ "date" ] = "2018-08-23",
-  [ "version" ] = 1,
+  [ "date" ] = "2018-08-25",
+  [ "version" ] = 1.1,
   [ "url" ] = "https://github.com/Wendelstein7/palCollection-CC",
   [ "palettes" ] = {},
   [ "colours" ] = {},

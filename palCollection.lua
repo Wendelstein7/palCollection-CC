@@ -261,11 +261,11 @@ palCollection.colours.c64 = {
   [ "orange" ] = 256,
   [ "brown" ] = 512,
   [ "lightRed" ] = 1024,
-  [ "dark_gray" ] = 2048,
-  [ "light_gray" ] = 4096,
-  [ "light_green" ] = 8192,
-  [ "light_blue" ] = 16384,
-  [ "lightest_gray" ] = 32768,
+  [ "darkGrey" ] = 2048,
+  [ "lightGrey" ] = 4096,
+  [ "lightGreen" ] = 8192,
+  [ "lightBlue" ] = 16384,
+  [ "lightestGrey" ] = 32768,
 }
 
 -- for en-us users

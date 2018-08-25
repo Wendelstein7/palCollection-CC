@@ -226,6 +226,31 @@ palCollection.colours.onedark = {
   [ "whiteBright" ] = 32768,
 }
 
+-- c64
+
+palCollection.sources.c64 = "https://www.c64-wiki.com/wiki/Color"
+
+palCollection.palettes.c64 = {} -- I'm working on it
+
+palCollection.colours.c64 = {
+  [ "black" ] = 1,
+  [ "white" ] = 2,
+  [ "red" ] = 4,
+  [ "cyan" ] = 8,
+  [ "purple" ] = 16,
+  [ "green" ] = 32,
+  [ "blue" ] = 64,
+  [ "yellow" ] = 128,
+  [ "orange" ] = 256,
+  [ "brown" ] = 512,
+  [ "lightRed" ] = 1024,
+  [ "dark_gray" ] = 2048,
+  [ "light_gray" ] = 4096,
+  [ "light_green" ] = 8192,
+  [ "light_blue" ] = 16384,
+  [ "lightest_gray" ] = 32768,
+}
+
 -- for en-us users
 palCollection.colors = palCollection.colours
 
